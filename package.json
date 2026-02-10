@@ -1,20 +1,6 @@
 {
-  "name": "fayiz-mujeeb-portfolio",
+  "name": "fayiz-portfolio",
   "version": "1.0.0",
-  "description": "Professional portfolio website for Fayiz Mujeeb - Finance Professional",
-  "main": "index.html",
-  "scripts": {
-    "dev": "npx serve .",
-    "build": "echo 'Static site - no build needed'",
-    "start": "npx serve ."
-  },
-  "keywords": [
-    "portfolio",
-    "finance",
-    "chartered-accountant",
-    "tax-audit",
-    "compliance"
-  ],
-  "author": "Fayiz Mujeeb",
-  "license": "MIT"
+  "description": "Professional Portfolio Website",
+  "main": "index.html"
 }
